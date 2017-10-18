@@ -1,0 +1,6 @@
+E:\MyGit\CSharp\Hello\Hello\Hello\bin\Debug\Hello.exe
+E:\MyGit\CSharp\Hello\Hello\Hello\bin\Debug\Hello.pdb
+E:\MyGit\CSharp\Hello\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+E:\MyGit\CSharp\Hello\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+E:\MyGit\CSharp\Hello\Hello\Hello\obj\Debug\Hello.exe
+E:\MyGit\CSharp\Hello\Hello\Hello\obj\Debug\Hello.pdb
