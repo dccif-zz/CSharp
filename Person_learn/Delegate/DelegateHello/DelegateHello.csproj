@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1D0EA09E-F6E5-417A-8F4D-32B6C93291E1}</ProjectGuid>
+    <ProjectGuid>{0033CBA8-51A0-43C9-A7EB-5E4D13F30EE3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Hello</RootNamespace>
-    <AssemblyName>Hello</AssemblyName>
+    <RootNamespace>DelegateHello</RootNamespace>
+    <AssemblyName>DelegateHello</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
